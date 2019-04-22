@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-io-1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lzma-4.63-jio-0.93.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sevenzip4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/sevenzip4-srcj.jar!/" />
+    </SOURCES>
+  </library>
+</component>
